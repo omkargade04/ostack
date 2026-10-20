@@ -1,0 +1,14 @@
+{
+  "name": "ostack",
+  "description": "Local marketplace for Omkar's ostack plugin.",
+  "owner": {
+    "name": "Omkar Gade"
+  },
+  "plugins": [
+    {
+      "name": "ostack",
+      "source": "./",
+      "description": "Omkar's local workflow plugin: grill gate, playbooks, review, doc review, and code agents."
+    }
+  ]
+}

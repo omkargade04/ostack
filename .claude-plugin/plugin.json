@@ -1,0 +1,8 @@
+{
+  "name": "ostack",
+  "version": "0.1.2",
+  "description": "Omkar's local workflow plugin: grill gate, playbooks (ticket, feature, optimize, review-pr, execute), Thermos review, doc review, and code agents.",
+  "author": {
+    "name": "Omkar Gade"
+  }
+}
